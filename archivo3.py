@@ -1,1 +1,2 @@
-print("Subarashi = Maravilloso")
+print("en este archivo vamos a contarte sobre como funciona un agujero negro con python!")
+console.log("Un agujero negro es un objeto astronómico con una fuerza gravitatoria tan fuerte que nada, ni siquiera la luz, puede escapar de él. La 'superficie' de un agujero negro, denominada horizonte de sucesos, define el límite donde la velocidad requerida para evadirlo excede la velocidad de la luz, que es el límite de velocidad en el cosmos. La materia y la radiación son atrapadas y no pueden salir.")
