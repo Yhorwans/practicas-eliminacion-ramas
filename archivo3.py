@@ -1,0 +1,1 @@
+print("Subarashi = Maravilloso")
