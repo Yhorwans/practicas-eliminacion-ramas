@@ -1,0 +1,1 @@
+print("Soy otro archivo tonto el number2")
