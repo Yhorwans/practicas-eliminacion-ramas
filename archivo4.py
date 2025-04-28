@@ -1,1 +1,0 @@
-print("porque no estas trabajando?")
